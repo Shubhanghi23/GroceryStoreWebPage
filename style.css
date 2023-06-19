@@ -1,0 +1,129 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.navbar-brand{
+
+	font-size: 2rem;
+	color: darkcyan;
+	font-weight: bold;
+	font-family: 'Inter', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+.navbar-brand:hover{
+	color: green;
+}
+.nav-link{
+	margin-right: 10px;
+	margin-left: 10px;
+	color: darkblue;
+	text-transform: uppercase;
+	text-transform: uppercase;
+	font-family: 'Nunito', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+.main h1:hover{
+	color: springgreen;
+}
+.nav-link:hover{
+	color: turquoise;
+}
+.search{
+	height: 40px;
+	width: 80%;
+	border-radius: 60px;
+	outline: none;
+	border: 2px solid mediumvioletred;
+
+}
+.btnbtn-outline-success{
+	color: floralwhite;
+	background: palevioletred;
+	outline: none;
+	border:groove;
+	border-radius: 60px;
+	font-weight: 600;
+	height: 40px;
+	width: 80px;
+	
+}
+.btnbtn-outline-success:hover{
+	color: orangered;
+}
+.main h1{
+	font-size: 25px;
+	font-weight: 100;
+	font-family: sans-serif;
+	text-decoration: blink;
+	text-decoration-color: seagreen;
+	text-transform: capitalize;
+	font-style: italic;
+	color: darkred;
+
+}
+.col-lg-4 img{
+	float: left;
+}
+h1{
+	font-weight: 700;
+}
+.btn1{
+	color: floralwhite;
+	background: darkcyan;
+	outline: none;
+	border:groove;
+	border-radius: 80px;
+	font-weight: 600;
+	height: 100px;
+	width: 100px;
+	
+
+}
+.btn1:hover{
+	color: darkviolet;
+}
+.apple{
+	background: url(store.jpg)no-repeat;
+	background-size: cover;
+	height: 80vh;
+	width: 100%;
+}
+.apple h1{
+	font-family: 'Lobster',cursive;
+}
+.news{
+	background-color: black;
+	color: white;
+}
+.btn2{
+	height: 45px;
+	width: 100px;
+	background: whitesmoke;
+	margin-left: -10px;
+	border: 2px solid white;
+	font-weight: 600;
+}
+.news input{
+	height: 45px;
+	width: 55%;
+	border: 2px solid white;
+	outline: none;
+	background: black;
+	color: white;
+	margin-top: 20px;
+	font-weight: 600;
+
+}
+.news::placeholder{
+	color: whitesmoke;
+}
+.new p{
+	margin: 0;
+}
+.fab{
+	font-size: 2.5rem;
+	cursor:pointer;
+	padding-right: 5px;
+}
