@@ -1,3 +1,3 @@
 # GroceryStoreWebPage
 
-A complete web page of a grocery store using HTML, CSS & BOOTSTRAP-5
+  A grocery store website using HTML, CSS & BOOTSTRAP-5
